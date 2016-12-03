@@ -1,7 +1,7 @@
 Test Repository for Static Resource Resolution (Spring Web Reactive + Netty)
 ----------------------------------------------------------------------------
 
-Issue Link: https://jira.spring.io/browse/SPR-15XXX
+Issue Link: https://jira.spring.io/browse/SPR-14975
 
 This repository is aimed at testing an exception happening when accessing a static resource (an image)
 on a Spring Web Reactive application using Netty.
